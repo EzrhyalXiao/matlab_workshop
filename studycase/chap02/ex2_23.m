@@ -1,0 +1,1 @@
+newC = reshape(C,4,1)

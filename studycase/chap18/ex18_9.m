@@ -1,0 +1,1 @@
+copyfile('t.m','E:\ug\written book\matlab\Mнд╪Ч\chap18\create\t.m')  %copy t.m

@@ -1,0 +1,1 @@
+[sys,x0,str,ts] = ssc_house_heating_system ([],[],[],'sizes')

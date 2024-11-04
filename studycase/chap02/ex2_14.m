@@ -1,0 +1,1 @@
+Schedule(2)=struct('Day','Thursday','Time','15:00','Number',18)

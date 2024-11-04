@@ -1,0 +1,1 @@
+Fun1=inline('mod(12,5)')

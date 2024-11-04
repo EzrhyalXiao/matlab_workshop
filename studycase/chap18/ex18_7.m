@@ -1,0 +1,1 @@
+ [stat, mess, id]=rmdir('myfiles')

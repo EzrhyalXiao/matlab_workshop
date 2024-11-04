@@ -1,0 +1,1 @@
+h=uicontrol('style','pushbutton','Units','normalized','Position',[.5 .5 .2 .1],'String','µ¥»÷´Ë´¦','Callback','set(h,''Position'',[.8*rand .9*rand .2 .1])');
