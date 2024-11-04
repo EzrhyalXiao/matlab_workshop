@@ -1,0 +1,12 @@
+%设置轴对象中的背景颜色为白色，轴线颜色为黑色
+set(gca,'Color','w',...
+        'XColor','k',...
+        'YColor','k',...
+        'ZColor','k')
+%设置轴对象中的文本颜色为黑色
+set(get(gca,'Title'),'Color','k')
+set(get(gca,'XLabel'),'Color','k')
+set(get(gca,'YLabel'),'Color','k')
+set(get(gca,'ZLabel'),'Color','k'
+%设置图形对象的背景颜色为白色
+set(gcf,'Color','w')
