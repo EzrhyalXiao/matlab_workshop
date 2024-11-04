@@ -2,7 +2,7 @@
 
 🌟 **Welcome to the MATLAB Workshop Repository!** 🌟
 
-This repository is dedicated to our journey through the world of MATLAB, a powerful tool for numerical computation, visualization, and programming. Whether you're a seasoned engineer, a mathematician, or a student just starting out, this collection of MATLAB codes is designed to be a resource for learning and inspiration.
+This repository is dedicated to my journey through the world of MATLAB with my friend @sAlieZk.
 
 ## 📚 About the Course
 
@@ -11,6 +11,6 @@ This repository is dedicated to our journey through the world of MATLAB, a power
 
 ## 🚀 Key Features
 
-- **Comprehensive Code Examples**: Each code snippet is accompanied by comments and explanations, making it easy for you to understand and modify.
+- **Code Examples**: Each code snippet is accompanied by comments and explanations, making it easy for you to understand and modify.
 - **Real-World Applications**: Discover how MATLAB is used to solve real-world problems, from fluid dynamics to financial modeling.
-- **Interactive Workshops**: Engage with hands-on exercises that will sharpen your skills and deepen your understanding of MATLAB.
+- **Algorithm Reproduction and Improvement**: Engage with hands-on exercises that will sharpen your skills and deepen your understanding of MATLAB.
